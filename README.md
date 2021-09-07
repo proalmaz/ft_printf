@@ -10,10 +10,10 @@ No memory leaks.
 
 # Using
 
-<make> and <make all> build the library with the project, or recompile the modified file, also rebuilding the library.
+'make' and 'make all' build the library with the project, or recompile the modified file, also rebuilding the library.
 
-<make re> deletes all .o files, deletes libftprintf.a, rebuilds the library.
+'make re' deletes all .o files, deletes libftprintf.a, rebuilds the library.
 
-<make clean> deletes all .o files.
+'make clean' deletes all .o files.
 
-<make fclean> deletes all .o files, also deletes libftprintf.a.
+'make fclean' deletes all .o files, also deletes libftprintf.a.
